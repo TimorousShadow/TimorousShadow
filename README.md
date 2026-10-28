@@ -1,0 +1,23 @@
+<p align="center"><a href="https://timorousshadow.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png"><img alt="Hi, I'm TimorousShadow, I build software for online communities" src="./assets/banner-light.png" width="100%"></picture></a></p>
+
+<p align="center">
+  <a href="https://timorousshadow.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-website-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/btn-website-light.png"><img alt="Website" src="./assets/btn-website-light.png" width="200"></picture></a>
+  <a href="https://timorousshadow.xyz/#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-work-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/btn-work-light.png"><img alt="View my work" src="./assets/btn-work-light.png" width="200"></picture></a>
+  <a href="https://discord.com/users/1301764055186542642"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-discord-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/btn-discord-light.png"><img alt="Discord" src="./assets/btn-discord-light.png" width="200"></picture></a>
+</p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/about-light.png"><img alt="About me: I build software for Discord communities and run the Proxmox host it lives on." src="./assets/about-light.png" width="100%"></picture></p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/title-work-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/title-work-light.png"><img alt="Selected work" src="./assets/title-work-light.png" width="100%"></picture></p>
+<p align="center">
+  <a href="https://timorousshadow.xyz/#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-0-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/project-0-light.png"><img alt="NAMSOS, moderation bot & staff dashboard" src="./assets/project-0-light.png" width="49%"></picture></a>
+  <a href="https://naramo.lol/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-1-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/project-1-light.png"><img alt="Naramo TCG, online trading card game" src="./assets/project-1-light.png" width="49%"></picture></a>
+  <a href="https://timorousshadow.xyz/#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-2-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/project-2-light.png"><img alt="Content Program Portal, creator program portal" src="./assets/project-2-light.png" width="49%"></picture></a>
+  <a href="https://www.rovalra.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-3-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/project-3-light.png"><img alt="RoValra, Roblox browser extension" src="./assets/project-3-light.png" width="49%"></picture></a>
+</p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/title-skills-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/title-skills-light.png"><img alt="Technical skills" src="./assets/title-skills-light.png" width="100%"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/skills-light.png"><img alt="TypeScript, Node.js, PostgreSQL, Lua / Roblox, Proxmox & Linux" src="./assets/skills-light.png" width="100%"></picture></p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/title-contact-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/title-contact-light.png"><img alt="Let's talk" src="./assets/title-contact-light.png" width="100%"></picture></p>
+<p align="center"><a href="https://discord.com/users/1301764055186542642"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.png"><img alt="Want to talk about a bot, a game, or self-hosting? Discord is the fastest way to reach me." src="./assets/footer-light.png" width="100%"></picture></a></p>
